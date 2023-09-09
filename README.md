@@ -6,7 +6,7 @@
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
 ```bash
-  git clone "https://github.com/chetannada/My-Portfolio.git"
+  git clone "https://github.com/lokesh632/MyPortfolio.git"
 ```
 Go to the project directory
 
